@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7fffd4&height=300&section=header&text=1hcoj&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7fffd4&height=300&section=header&text=1hcoj&fontSize=90&fontColor=FFFFFF&fontAlign=70😂" />
 
 <!--
 **1hcoj/1hcoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
